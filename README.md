@@ -25,4 +25,4 @@ HTTP POST Data To "http://localhost:8000/calculator" ⛳️ 🏌️‍♂️
 }
 ```
 # System design diagram
-![diagram](https://github.com/sadegh-masoumi/WebServer-by-rabbitmq/tree/main/doc/img/RabbitMQ.png)
+![diagram](https://github.com/sadegh-masoumi/WebServer-by-rabbitmq/blob/main/doc/img/RabbitMQ.png?raw=true)
