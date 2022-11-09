@@ -1,6 +1,9 @@
 # WebServer By RPC RabbitMq ⚡️
 In this project I use RabbitMq & FastApi in a simple example to represent how We can use RabbitMq in our projects. 
 
+# System design diagram
+![diagram](https://github.com/sadegh-masoumi/WebServer-by-rabbitmq/blob/main/doc/img/RabbitMQ.png?raw=true)
+
 # Run 🚀
 Create RabbitMq Container 👨‍💻
 ``` bash
@@ -24,5 +27,3 @@ HTTP POST Data To "http://localhost:8000/calculator" ⛳️ 🏌️‍♂️
     "finNumber": 10
 }
 ```
-# System design diagram
-![diagram](https://github.com/sadegh-masoumi/WebServer-by-rabbitmq/blob/main/doc/img/RabbitMQ.png?raw=true)
